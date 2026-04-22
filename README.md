@@ -1,4 +1,4 @@
-# vibe-coding-udea
+# Semillero Vibe Coding Universidad de Antioquia
 
 Semillero estudiantil de la Universidad de Antioquia enfocado en desarrollo asistido por IA: vibe coding, meta prompting, ingeniería de prompts y modelos locales.
 
